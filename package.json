@@ -1,0 +1,15 @@
+{
+  "name": "oy-log",
+  "version": "1.0.0",
+  "description": "V14 oy log",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^14.6.0"
+  }
+}
